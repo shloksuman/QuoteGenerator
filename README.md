@@ -1,6 +1,3 @@
-Certainly! Here's a simple `README.md` template for a Quote Generator project, using icons for a clean and visually appealing representation:
-
-```markdown
 # Quote Generator
 
 An interactive web application that displays quotes on the frontend. Clicking the "New Quotes" button will fetch and display new quotes.
@@ -23,7 +20,7 @@ An interactive web application that displays quotes on the frontend. Clicking th
 
    ```bash
    git clone https://github.com/your-username/QuoteGenerator.git
-   ```
+   
 
 2. Open the `index.html` file in your web browser.
 
