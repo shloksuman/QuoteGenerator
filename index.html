@@ -6,7 +6,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Test</h1>
+
+    <div class="quote-box">
+        <h1>Quote of the Day</h1>
+        <blockquote id="quote">Loading...</blockquote>
+        <span id="author">Loading...</span>
+        <div>
+            <button onclick="getQuote(apiUrl)">New Quote</button>
+            <button onclick="tweet()"><img src="media/twitter.png">Tweet</button>
+        </div>
+    </div>
 
 <script src="script.js"></script>
 
