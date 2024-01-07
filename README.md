@@ -31,7 +31,7 @@ An interactive web application that displays quotes on the frontend. Clicking th
 
 ## Preview
 
-[Add a screenshot or GIF demonstrating the application in action]
+
 
 ## How to Contribute
 
